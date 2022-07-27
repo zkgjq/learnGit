@@ -1,2 +1,1 @@
-import *
-System.out.println("hello")
+import
